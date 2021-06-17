@@ -1,0 +1,21 @@
+body {
+  background: rgb(43, 40, 37);
+  overflow: hidden;
+}
+
+p {
+  line-height: 9px;
+  font-family: "Trebuchet MS", "Lucida Sans Unicode", "Lucida Grande",
+    "Lucida Sans", Arial, sans-serif;
+
+  background: url(IMG_20200629_101459.jpg);
+
+  -webkit-background-clip: text;
+  background-attachment: fixed;
+  background-repeat: no-repeat;
+  -webkit-text-fill-color: rgba(255, 255, 255, 0);
+  background-size: 80vh;
+  background-position: center;
+  font-size: 12px;
+  user-select: none;
+}
